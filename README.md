@@ -22,6 +22,7 @@ This board includes software control over the microstep pins. The microsteps are
 ### Changes / configuration files
 
 Grbl_Esp32\Custom\Eggbot_coreXY.cpp
+
 Grbl_Esp32\src\Machines\EggBot_coreXY.h
 
 
